@@ -34,3 +34,5 @@ I learned a ton of new stuff. Whenever I make a new project it always teaches me
 - Implementing other forms of quizzes 
 - Deploying the model with less weight so that it is more smooth and well functioning
 - Adding more features to it and create a website out of it.
+
+# [Demo of the project](https://youtu.be/3RT6eIjOEoE)
